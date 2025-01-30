@@ -10,11 +10,7 @@ console.log(3
 ); // code readability should be high
 
 
-let name = "ankur"
-let age = 18
-let isloggedIn = true
-
-// number => 2 to power 53
+let name = "ankur" 
 // bigint  jab number value bade ho tab use karte hai, ex=> facebook number , stock ,etc
 
 //string => ""
