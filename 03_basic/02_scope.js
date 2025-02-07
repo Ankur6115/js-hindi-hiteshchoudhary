@@ -6,10 +6,24 @@ if (true) {
     
 }
 
-for (let i = 0; i < array.length; i++) {
-    const element = array[i];
-    
-}
 
 
 console.log(a);
+
+function one (){
+    const username = "ankur"
+
+    function two (){
+        const website = "youtub"
+        console.log(username);
+        
+    }
+
+    //console.log(website);
+    
+    two()
+}
+
+one()
+
+
